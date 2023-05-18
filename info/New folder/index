@@ -1,0 +1,108 @@
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="x-UA-Compatible" content="IE=edge">
+   <meta name="viewport"content="width=device-width,initial-scale=1.0">
+   <link rel="stylesheet" href="css/style.css">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+   <title>theo James </title>
+  
+</head>
+<body>
+   <nav class="navbar navbar-expand-lg bg-danger">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Dropdown
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="#">Something else here</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Disabled</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+      </nav>
+
+
+ <h1>Theo james</h1>
+ <h2>introduccion</h2>  
+ <h3>happy</h3>
+ <h4>H4</h4>
+ <h5>H5</h5>
+ <h6>H6</h6>
+
+  <img src= "img/6669"width="200px"
+
+
+
+
+
+
+
+
+
+ 
+
+
+   
+ </body>
+
+ </html>
+<table class="table">
+  
+  <thead>
+     <tr>
+     <th scope="col">#</th>
+     <th scope="col">Peliculas</th>
+     <th scope="col">Series</th>
+     <th scope="col">Sagas</th>
+    </tr>
+  </thead>
+  </tbody>
+   <tr>
+     <th scope="row">1</th>
+     <td><img src="img/Theo_James_2015_06 "  alt="Peliculas" width="50px"></td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td> Series:The White Lotus</td>
+      <td>Mike White</td>
+      <td><img src="https://www.google.com/search?q=the+white+lotus+season+2+trailer&sxsrf=APwXEdem9MooG6vR-r2mZZ4ngyKMZQXCVQ%3A1684366406640&ei=RmRlZP7OJqKoqtsP0JYn&oq=the+white+lotus+season+2+t&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLAToKCAAQRxDWBBCwAzoKCAAQigUQsAMQQzoNCAAQ5AIQ1gQQsAMYAToPCC4QigUQyAMQsAMQQxgCOggIABCABBCLAzoFCAAQgAQ6CwgAEIAEEMsBEIsDSgQIQRgAUMcSWJYkYNMwaAFwAXgAgAFpiAHMAZIBAzEuMZgBAKABAcgBE7gBAsABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz-serp#fpstate=ive&vld=cid:d3953c13,vid:Baflc_0XVfY" alt="Series"width="50px"></td>
+     </tr>
+   <tr></tr>
+       <th scope="row">3</th>
+       <td>sagas</td>
+       <td>Niel Burger</td>
+      <td><img src="img/https://1drv.ms/i/s!AhWQtzBl09cejj95vAZhQ59_oBEs?e=SL8bbh" alt="Sagas"width="50px"></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <script src="https://ev01.to/movie/watch-divergent-online-18790"integrity
+
+</body>
+</html>
